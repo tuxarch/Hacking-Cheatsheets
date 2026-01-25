@@ -119,6 +119,7 @@
 | Tool | Description | Cheatsheet |
 |------|-------------|------------|
 | **Volatility** | Memory forensics framework | [📄 View](./Volatility/README.md) |
+| **Autopsy** | Digital forensics platform (GUI) | [📄 View](./Autopsy/README.md) |
 
 ### 📚 Resources
 
