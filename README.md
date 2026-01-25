@@ -57,6 +57,7 @@
 | **Meterpreter** | Advanced post-exploitation payload | [📄 View](./Metasploit/Meterpreter.md) |
 | **Mimikatz** | Windows credential extraction tool | [📄 View](./Mimikatz/README.md) |
 | **PowerShell** | Windows scripting for pentesting | [📄 View](./PowerShell/README.md) |
+| **Linux Commands** | Linux & Bash for pentesting | [📄 View](./Linux-Commands/README.md) |
 
 ### 🔍 Reconnaissance & Scanning
 
