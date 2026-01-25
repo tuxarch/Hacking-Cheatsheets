@@ -128,6 +128,7 @@
 | Tool | Description | Cheatsheet |
 |------|-------------|------------|
 | **Ghidra** | NSA reverse engineering suite | [📄 View](./Ghidra/README.md) |
+| **GDB** | GNU Debugger (Linux debugging) | [📄 View](./GDB/README.md) |
 
 ### 📚 Resources
 
