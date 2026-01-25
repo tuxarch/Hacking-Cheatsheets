@@ -70,7 +70,7 @@
 | Tool | Description | Cheatsheet |
 |------|-------------|------------|
 | **SQLMap** | SQL injection automation tool | [📄 View](./SQLMap/README.md) |
-| Burp Suite | Web vulnerability scanner | 🔜 Planned |
+| **Burp Suite** | Web application security testing platform | [📄 View](./Burp-Suite/README.md) |
 | OWASP ZAP | Web app security scanner | 🔜 Planned |
 
 ### 🔓 Password Cracking
@@ -148,8 +148,10 @@ Hacking-Cheatsheets/
 ├── SQLMap/                # SQL Injection Tool
 │   └── README.md          # Complete SQLMap guide
 │
+├── Burp-Suite/            # Web Application Testing
+│   └── README.md          # Complete Burp Suite guide
+│
 ├── Nmap/                  # (Coming Soon)
-├── Burp-Suite/            # (Coming Soon)
 └── ...
 ```
 
