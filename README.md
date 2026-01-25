@@ -123,6 +123,12 @@
 | **ExifTool** | Metadata extraction & analysis | [📄 View](./ExifTool/README.md) |
 | **Binwalk** | Firmware analysis & extraction | [📄 View](./Binwalk/README.md) |
 
+### 🔄 Reverse Engineering
+
+| Tool | Description | Cheatsheet |
+|------|-------------|------------|
+| **Ghidra** | NSA reverse engineering suite | [📄 View](./Ghidra/README.md) |
+
 ### 📚 Resources
 
 | Resource | Description | Cheatsheet |
