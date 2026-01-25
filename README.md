@@ -55,6 +55,7 @@
 |------|-------------|------------|
 | **Metasploit Framework** | The world's most used penetration testing framework | [📄 View](./Metasploit/README.md) |
 | **Meterpreter** | Advanced post-exploitation payload | [📄 View](./Metasploit/Meterpreter.md) |
+| **Mimikatz** | Windows credential extraction tool | [📄 View](./Mimikatz/README.md) |
 
 ### 🔍 Reconnaissance & Scanning
 
