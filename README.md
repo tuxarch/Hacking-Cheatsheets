@@ -66,12 +66,11 @@
 | Nikto | Web server scanner | 🔜 Planned |
 
 ### 🌐 Web Application Testing
-*Coming Soon...*
 
-| Tool | Description | Status |
-|------|-------------|--------|
+| Tool | Description | Cheatsheet |
+|------|-------------|------------|
+| **SQLMap** | SQL injection automation tool | [📄 View](./SQLMap/README.md) |
 | Burp Suite | Web vulnerability scanner | 🔜 Planned |
-| SQLMap | SQL injection automation | 🔜 Planned |
 | OWASP ZAP | Web app security scanner | 🔜 Planned |
 
 ### 🔓 Password Cracking
@@ -146,9 +145,11 @@ Hacking-Cheatsheets/
 │   ├── README.md          # Complete msfconsole guide
 │   └── Meterpreter.md     # Meterpreter cheatsheet
 │
+├── SQLMap/                # SQL Injection Tool
+│   └── README.md          # Complete SQLMap guide
+│
 ├── Nmap/                  # (Coming Soon)
 ├── Burp-Suite/            # (Coming Soon)
-├── SQLMap/                # (Coming Soon)
 └── ...
 ```
 
