@@ -136,6 +136,7 @@
 | Tool | Description | Cheatsheet |
 |------|-------------|------------|
 | **Aircrack-ng** | WiFi hacking suite (WPA/WPA2) | [📄 View](./Aircrack-ng/README.md) |
+| **Wifite** | Automated WiFi auditor | [📄 View](./Wifite/README.md) |
 
 ### 📚 Resources
 
