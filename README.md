@@ -96,6 +96,14 @@
 | **Subfinder** | Subdomain discovery | [📄 View](./Subfinder/README.md) |
 | **httpx** | HTTP probe & toolkit | [📄 View](./httpx/README.md) |
 
+### 🔎 Dorking & OSINT
+
+| Tool | Description | Cheatsheet |
+|------|-------------|------------|
+| **Google Dorking** | Advanced Google search techniques | [📄 View](./Google-Dorking/README.md) |
+| **Shodan** | IoT & device search engine | [📄 View](./Shodan/README.md) |
+| **GitHub Dorking** | Secret hunting in repositories | [📄 View](./GitHub-Dorking/README.md) |
+
 ### 🔝 Privilege Escalation
 *Coming Soon...*
 
@@ -195,6 +203,15 @@ Hacking-Cheatsheets/
 │
 ├── httpx/                 # HTTP Probe & Toolkit
 │   └── README.md          # Complete httpx guide
+│
+├── Google-Dorking/        # Google Search Hacking
+│   └── README.md          # Complete Google Dorking guide
+│
+├── Shodan/                # IoT Search Engine
+│   └── README.md          # Complete Shodan guide
+│
+├── GitHub-Dorking/        # Secret Hunting
+│   └── README.md          # Complete GitHub Dorking guide
 │
 └── ...
 ```
