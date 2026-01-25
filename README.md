@@ -85,7 +85,7 @@
 | Tool | Description | Cheatsheet |
 |------|-------------|------------|
 | **Wireshark** | Network protocol analyzer | [📄 View](./Wireshark/README.md) |
-| tcpdump | Command-line packet analyzer | 🔜 Planned |
+| **tcpdump** | Command-line packet analyzer | [📄 View](./tcpdump/README.md) |
 
 ### 🔝 Privilege Escalation
 *Coming Soon...*
@@ -171,6 +171,9 @@ Hacking-Cheatsheets/
 │
 ├── Wireshark/             # Network Protocol Analyzer
 │   └── README.md          # Complete Wireshark guide
+│
+├── tcpdump/               # Command-Line Packet Analyzer
+│   └── README.md          # Complete tcpdump guide
 │
 └── ...
 ```
