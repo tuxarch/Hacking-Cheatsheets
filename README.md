@@ -77,8 +77,8 @@
 | Tool | Description | Cheatsheet |
 |------|-------------|------------|
 | **Hydra** | Fast network login cracker | [📄 View](./Hydra/README.md) |
-| John the Ripper | Password cracker | 🔜 Planned |
-| Hashcat | Advanced password recovery | 🔜 Planned |
+| **John the Ripper** | Legendary password cracker | [📄 View](./John-The-Ripper/README.md) |
+| Hashcat | Advanced GPU password recovery | 🔜 Planned |
 
 ### 📡 Network Analysis
 *Coming Soon...*
@@ -163,6 +163,9 @@ Hacking-Cheatsheets/
 │
 ├── Hydra/                 # Network Login Cracker
 │   └── README.md          # Complete Hydra guide
+│
+├── John-The-Ripper/       # Password Cracker
+│   └── README.md          # Complete John guide
 │
 └── ...
 ```
