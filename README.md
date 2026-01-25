@@ -116,6 +116,7 @@
 | Resource | Description | Cheatsheet |
 |----------|-------------|------------|
 | **Wordlists** | Complete wordlist reference guide | [📄 View](./Wordlists/README.md) |
+| **Kali Linux Tools** | 600+ tools by category | [📄 View](./Kali-Linux-Tools/README.md) |
 
 ---
 
