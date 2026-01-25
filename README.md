@@ -81,11 +81,10 @@
 | **Hashcat** | World's fastest GPU password cracker | [📄 View](./Hashcat/README.md) |
 
 ### 📡 Network Analysis
-*Coming Soon...*
 
-| Tool | Description | Status |
-|------|-------------|--------|
-| Wireshark | Network protocol analyzer | 🔜 Planned |
+| Tool | Description | Cheatsheet |
+|------|-------------|------------|
+| **Wireshark** | Network protocol analyzer | [📄 View](./Wireshark/README.md) |
 | tcpdump | Command-line packet analyzer | 🔜 Planned |
 
 ### 🔝 Privilege Escalation
@@ -169,6 +168,9 @@ Hacking-Cheatsheets/
 │
 ├── Hashcat/               # GPU Password Cracker
 │   └── README.md          # Complete Hashcat guide
+│
+├── Wireshark/             # Network Protocol Analyzer
+│   └── README.md          # Complete Wireshark guide
 │
 └── ...
 ```
