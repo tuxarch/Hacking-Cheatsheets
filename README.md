@@ -99,6 +99,20 @@
 | **ffuf** | Fast web fuzzer | [📄 View](./ffuf/README.md) |
 | **Subfinder** | Subdomain discovery | [📄 View](./Subfinder/README.md) |
 | **httpx** | HTTP probe & toolkit | [📄 View](./httpx/README.md) |
+| **Amass** | In-depth attack surface mapping | [📄 View](./Amass/README.md) |
+| **GAU** | Get All URLs from archives | [📄 View](./GAU/README.md) |
+| **Katana** | Next-gen web crawler | [📄 View](./Katana/README.md) |
+| **Arjun** | Hidden parameter discovery | [📄 View](./Arjun/README.md) |
+| **Dalfox** | XSS vulnerability scanner | [📄 View](./Dalfox/README.md) |
+
+### 💉 Payloads Collection
+
+| Vulnerability | Description | Cheatsheet |
+|---------------|-------------|------------|
+| **XSS** | Cross-Site Scripting payloads | [📄 View](./Payloads/XSS.md) |
+| **SQLi** | SQL Injection payloads | [📄 View](./Payloads/SQLi.md) |
+| **LFI** | Local File Inclusion payloads | [📄 View](./Payloads/LFI.md) |
+| **SSTI** | Server-Side Template Injection | [📄 View](./Payloads/SSTI.md) |
 
 ### 🔎 Dorking & OSINT
 
