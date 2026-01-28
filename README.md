@@ -114,6 +114,19 @@
 | **LFI** | Local File Inclusion payloads | [📄 View](./Payloads/LFI.md) |
 | **SSTI** | Server-Side Template Injection | [📄 View](./Payloads/SSTI.md) |
 
+### 🔴 Web Vulnerabilities
+
+| Vulnerability | Description | Cheatsheet |
+|---------------|-------------|------------|
+| **API Security** | REST/GraphQL/JWT testing guide | [📄 View](./API-Security/README.md) |
+| **IDOR** | Insecure Direct Object Reference | [📄 View](./IDOR/README.md) |
+| **SSRF** | Server-Side Request Forgery | [📄 View](./SSRF/README.md) |
+| **XXE** | XML External Entity Injection | [📄 View](./XXE/README.md) |
+| **Race Conditions** | Timing & concurrency attacks | [📄 View](./Race-Conditions/README.md) |
+| **Auth Bypass** | Authentication bypass techniques | [📄 View](./Auth-Bypass/README.md) |
+| **CORS** | Cross-Origin misconfigurations | [📄 View](./CORS/README.md) |
+| **Open Redirect** | URL redirect vulnerabilities | [📄 View](./Open-Redirect/README.md) |
+
 ### 🔎 Dorking & OSINT
 
 | Tool | Description | Cheatsheet |
