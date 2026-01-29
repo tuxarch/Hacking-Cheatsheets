@@ -179,6 +179,35 @@
 
 ---
 
+## 🏁 CTF Cheatsheets
+
+> **NEW!** Complete CTF competition guides for HackTheBox, TryHackMe, PicoCTF.
+
+| Category | Description | Guide |
+|----------|-------------|-------|
+| **Web** | SQLi, XSS, SSTI, LFI, Auth bypass | [📄 View](./CTF/Web-CTF.md) |
+| **Crypto** | RSA, AES, hashes, encoding, XOR | [📄 View](./CTF/Crypto-CTF.md) |
+| **Reverse Engineering** | Ghidra, IDA, GDB, patching | [📄 View](./CTF/Reverse-Engineering-CTF.md) |
+| **Forensics** | Steganography, memory, disk, PCAP | [📄 View](./CTF/Forensics-CTF.md) |
+| **Pwn/Binary** | Buffer overflow, ROP, shellcode | [📄 View](./CTF/Pwn-CTF.md) |
+
+👉 **[Full CTF Overview](./CTF/README.md)**
+
+---
+
+## 📡 IoT Hacking
+
+> **NEW!** IoT device hacking, firmware analysis, and hardware hacking guides.
+
+| Topic | Description | Guide |
+|-------|-------------|-------|
+| **Firmware Analysis** | Binwalk, extraction, RE, secrets | [📄 View](./IoT-Hacking/Firmware-Analysis.md) |
+| **Hardware Hacking** | UART, JTAG, SPI, I2C, debug ports | [📄 View](./IoT-Hacking/Hardware-Hacking.md) |
+
+👉 **[Full IoT Hacking Overview](./IoT-Hacking/README.md)**
+
+---
+
 ## 📖 Cheatsheets
 
 ### 🔴 Exploitation Framework
