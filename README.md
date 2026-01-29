@@ -136,6 +136,18 @@
 
 ---
 
+## 📝 Reporting Templates
+
+> **NEW!** Professional report templates for pentesters and bug bounty hunters.
+
+| Template | Description | Guide |
+|----------|-------------|-------|
+| **Pentest Report** | Full penetration test report structure | [📄 View](./Reporting/Pentest-Report-Template.md) |
+| **Bug Bounty Report** | HackerOne/Bugcrowd submission template | [📄 View](./Reporting/Bug-Bounty-Report-Template.md) |
+| **Executive Summary** | Non-technical summary for C-level | [📄 View](./Reporting/Executive-Summary-Template.md) |
+
+---
+
 ## 📖 Cheatsheets
 
 ### 🔴 Exploitation Framework
