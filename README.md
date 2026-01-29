@@ -47,6 +47,24 @@
 
 ---
 
+## 🎯 Attack Methodology (Kill Chain)
+
+> **NEW!** Complete step-by-step guide for penetration testing based on MITRE ATT&CK framework.
+
+| Phase | Description | Guide |
+|-------|-------------|-------|
+| **1. Initial Access** | Exploits, phishing, credentials | [📄 View](./Attack-Methodology/01-Initial-Access.md) |
+| **2. Enumeration** | System & network discovery | [📄 View](./Attack-Methodology/02-Enumeration.md) |
+| **3. Privilege Escalation** | Get root/SYSTEM access | [📄 View](./Attack-Methodology/03-Privilege-Escalation.md) |
+| **4. Lateral Movement** | Move across the network | [📄 View](./Attack-Methodology/04-Lateral-Movement.md) |
+| **5. Persistence** | Maintain access | [📄 View](./Attack-Methodology/05-Persistence.md) |
+| **6. Defense Evasion** | Bypass AV/EDR/AMSI | [📄 View](./Attack-Methodology/06-Defense-Evasion.md) |
+| **7. Actions on Objectives** | Data exfiltration & impact | [📄 View](./Attack-Methodology/07-Actions-Objectives.md) |
+
+👉 **[Full Kill Chain Overview](./Attack-Methodology/README.md)**
+
+---
+
 ## 📖 Cheatsheets
 
 ### 🔴 Exploitation Framework
