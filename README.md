@@ -83,6 +83,20 @@
 
 ---
 
+## ☁️ Cloud Security
+
+> **NEW!** Cloud pentesting guides for AWS, Azure, and GCP.
+
+| Provider | Description | Guide |
+|----------|-------------|-------|
+| **AWS** | S3, IAM, Lambda, EC2, IMDS | [📄 View](./Cloud-Security/AWS-Pentesting.md) |
+| **Azure** | Azure AD, Blob Storage, VMs, Key Vault | [📄 View](./Cloud-Security/Azure-Pentesting.md) |
+| **GCP** | GCS, IAM, Compute, Cloud Functions | [📄 View](./Cloud-Security/GCP-Pentesting.md) |
+
+👉 **[Full Cloud Security Overview](./Cloud-Security/README.md)**
+
+---
+
 ## 📖 Cheatsheets
 
 ### 🔴 Exploitation Framework
