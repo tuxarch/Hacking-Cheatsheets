@@ -148,6 +148,22 @@
 
 ---
 
+## 🔍 OSINT (Open Source Intelligence)
+
+> **NEW!** Complete OSINT methodology and tool guides.
+
+| Topic | Description | Guide |
+|-------|-------------|-------|
+| **People Search** | Find individuals online, phone/address lookup | [📄 View](./OSINT/People-Search.md) |
+| **Email OSINT** | Email discovery, breach checking, verification | [📄 View](./OSINT/Email-OSINT.md) |
+| **Social Media** | Username search, platform-specific OSINT | [📄 View](./OSINT/Social-Media-OSINT.md) |
+| **Domain & IP** | WHOIS, DNS, subdomain, IP reconnaissance | [📄 View](./OSINT/Domain-IP-OSINT.md) |
+| **Image OSINT** | Reverse image search, EXIF metadata | [📄 View](./OSINT/Image-OSINT.md) |
+
+👉 **[Full OSINT Overview](./OSINT/README.md)**
+
+---
+
 ## 📖 Cheatsheets
 
 ### 🔴 Exploitation Framework
