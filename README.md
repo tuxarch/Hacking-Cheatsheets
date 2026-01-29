@@ -97,6 +97,19 @@
 
 ---
 
+## 📱 Mobile Security
+
+> **NEW!** Mobile app pentesting guides for Android and iOS.
+
+| Platform | Description | Guide |
+|----------|-------------|-------|
+| **Android** | APK analysis, Frida, root detection bypass | [📄 View](./Mobile-Security/Android-Pentesting.md) |
+| **iOS** | IPA analysis, jailbreak, Objection, keychain | [📄 View](./Mobile-Security/iOS-Pentesting.md) |
+
+👉 **[Full Mobile Security Overview](./Mobile-Security/README.md)**
+
+---
+
 ## 📖 Cheatsheets
 
 ### 🔴 Exploitation Framework
