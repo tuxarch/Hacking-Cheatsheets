@@ -1,5 +1,7 @@
 # 🔴 Hacking Cheatsheets
 
+[🇮🇹 Versione Italiana](README.it.md)
+
 ```
     ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗ ██████╗ 
     ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║████╗  ██║██╔════╝ 
@@ -403,68 +405,70 @@ All cheatsheets are in Markdown format, making them:
 ```
 Hacking-Cheatsheets/
 │
-├── README.md              # This file - Main index
-├── LICENSE                # MIT License
-├── CONTRIBUTING.md        # Contribution guidelines
-├── .gitignore             # Git ignore rules
+├── README.md                # This file - Main index
+├── README.it.md             # Italian translation - Main index
+├── LICENSE                  # MIT License
+├── CONTRIBUTING.md          # Contribution guidelines
+├── CONTRIBUTING.it.md       # Italian contribution guidelines
+├── .gitignore               # Git ignore rules
 │
-├── Metasploit/            # Metasploit Framework
-│   ├── README.md          # Complete msfconsole guide
-│   └── Meterpreter.md     # Meterpreter cheatsheet
+├── Metasploit/              # Metasploit Framework
+│   ├── README.md            # Complete msfconsole guide
+│   └── Meterpreter.md       # Meterpreter cheatsheet
 │
-├── Nmap/                  # Network Scanner
-│   └── README.md          # Complete Nmap guide
+├── Nmap/                    # Network Scanner
+│   └── README.md            # Complete Nmap guide
 │
-├── Gobuster/              # Directory/DNS Enumeration
-│   └── README.md          # Complete Gobuster guide
+├── Gobuster/                # Directory/DNS Enumeration
+│   └── README.md            # Complete Gobuster guide
 │
-├── Nikto/                 # Web Server Scanner
-│   └── README.md          # Complete Nikto guide
+├── Nikto/                   # Web Server Scanner
+│   └── README.md            # Complete Nikto guide
 │
-├── SQLMap/                # SQL Injection Tool
-│   └── README.md          # Complete SQLMap guide
+├── SQLMap/                  # SQL Injection Tool
+│   └── README.md            # Complete SQLMap guide
 │
-├── Burp-Suite/            # Web Application Testing
-│   └── README.md          # Complete Burp Suite guide
+├── Burp-Suite/              # Web Application Testing
+│   └── README.md            # Complete Burp Suite guide
 │
-├── OWASP-ZAP/             # OWASP Zed Attack Proxy
-│   └── README.md          # Complete ZAP guide
+├── OWASP-ZAP/               # OWASP Zed Attack Proxy
+│   └── README.md            # Complete ZAP guide
 │
-├── Hydra/                 # Network Login Cracker
-│   └── README.md          # Complete Hydra guide
+├── Hydra/                   # Network Login Cracker
+│   └── README.md            # Complete Hydra guide
 │
-├── John-The-Ripper/       # Password Cracker
-│   └── README.md          # Complete John guide
+├── John-The-Ripper/         # Password Cracker
+│   └── README.md            # Complete John guide
 │
-├── Hashcat/               # GPU Password Cracker
-│   └── README.md          # Complete Hashcat guide
+├── Hashcat/                 # GPU Password Cracker
+│   └── README.md            # Complete Hashcat guide
 │
-├── Wireshark/             # Network Protocol Analyzer
-│   └── README.md          # Complete Wireshark guide
+├── Wireshark/               # Network Protocol Analyzer
+│   └── README.md            # Complete Wireshark guide
 │
-├── tcpdump/               # Command-Line Packet Analyzer
-│   └── README.md          # Complete tcpdump guide
+├── tcpdump/                 # Command-Line Packet Analyzer
+│   └── README.md            # Complete tcpdump guide
 │
-├── Nuclei/                # Bug Bounty Scanner
-│   └── README.md          # Complete Nuclei guide
+├── Nuclei/                  # Bug Bounty Scanner
+│   └── README.md            # Complete Nuclei guide
 │
-├── ffuf/                  # Web Fuzzer
-│   └── README.md          # Complete ffuf guide
+├── ffuf/                    # Web Fuzzer
+│   └── README.md            # Complete ffuf guide
 │
-├── Subfinder/             # Subdomain Discovery
-│   └── README.md          # Complete Subfinder guide
+├── Subfinder/               # Subdomain Discovery
+│   └── README.md            # Complete Subfinder guide
 │
-├── httpx/                 # HTTP Probe & Toolkit
-│   └── README.md          # Complete httpx guide
+├── httpx/                   # HTTP Probe & Toolkit
+│   └── README.md            # Complete httpx guide
 │
-├── Google-Dorking/        # Google Search Hacking
-│   └── README.md          # Complete Google Dorking guide
+├── Google-Dorking/          # Google Search Hacking
+│   └── README.md            # Complete Google Dorking guide
 │
-├── Shodan/                # IoT Search Engine
-│   └── README.md          # Complete Shodan guide
+├── Shodan/                  # IoT Search Engine
+│   └── README.md            # Complete Shodan guide
 │
-├── GitHub-Dorking/        # Secret Hunting
-│   └── README.md          # Complete GitHub Dorking guide
+├── GitHub-Dorking/          # Secret Hunting
+│   └── README.md            # Complete GitHub Dorking guide
 │
 └── ...
 ```
